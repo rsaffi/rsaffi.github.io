@@ -2,25 +2,25 @@ Start building sites …
 hugo v0.127.0-74e0f3bd63c51f3c7a0f07a7c779eec9e922957e+extended linux/amd64 BuildDate=2024-06-05T10:27:59Z VendorInfo=gohugoio
 
 INFO  static: removing all files from destination that don't exist in static dirs
-INFO  static: syncing static files to / duration 1.197056ms
-INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 83.083µs
-INFO  build:  step process duration 3.956192ms
-INFO  build:  step assemble duration 754.288µs
-INFO  deprecated: .Site.Social was deprecated in Hugo v0.124.0 and will be removed in a future release. Use .Site.Params instead.
-INFO  build:  step render substep pages site en outputFormat html duration 30.970878ms
-INFO  build:  step render substep pages site en outputFormat rss duration 1.445829ms
-INFO  build:  step render pages 9 content 1 duration 32.605406ms
-INFO  build:  step postProcess duration 22.012µs
-INFO  build:  duration 37.621494ms
+INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 107.984µs
+INFO  build:  step process duration 246.494µs
+INFO  build:  step assemble duration 667.653µs
+WARN  found no layout file for "html" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat html duration 1.556514ms
+INFO  build:  step render substep pages site en outputFormat rss duration 1.600997ms
+INFO  build:  step render pages 5 content 0 duration 3.303091ms
+INFO  build:  step postProcess duration 11.067µs
+INFO  build:  duration 5.201461ms
 
                    | EN  
 -------------------+-----
-  Pages            |  9  
+  Pages            |  5  
   Paginator pages  |  0  
   Non-page files   |  0  
-  Static files     |  1  
+  Static files     |  0  
   Processed images |  0  
-  Aliases          |  1  
+  Aliases          |  0  
   Cleaned          |  0  
 
-Total in 77 ms
+Total in 19 ms
