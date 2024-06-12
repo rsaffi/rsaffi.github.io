@@ -1,18 +1,17 @@
-ERROR deprecated: --verbose was deprecated in Hugo v0.114.0 and will be removed in Hugo 0.128.0. use --logLevel info
 Start building sites … 
 hugo v0.127.0-74e0f3bd63c51f3c7a0f07a7c779eec9e922957e+extended linux/amd64 BuildDate=2024-06-05T10:27:59Z VendorInfo=gohugoio
 
 INFO  static: removing all files from destination that don't exist in static dirs
-INFO  static: syncing static files to / duration 1.262835ms
-INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 87.994µs
-INFO  build:  step process duration 3.535809ms
-INFO  build:  step assemble duration 646.388µs
+INFO  static: syncing static files to / duration 1.330586ms
+INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 69.32µs
+INFO  build:  step process duration 5.016077ms
+INFO  build:  step assemble duration 727.767µs
 INFO  deprecated: .Site.Social was deprecated in Hugo v0.124.0 and will be removed in a future release. Use .Site.Params instead.
-INFO  build:  step render substep pages site en outputFormat html duration 33.331046ms
-INFO  build:  step render substep pages site en outputFormat rss duration 1.258578ms
-INFO  build:  step render pages 9 content 1 duration 34.787946ms
-INFO  build:  step postProcess duration 17.438µs
-INFO  build:  duration 39.486648ms
+INFO  build:  step render substep pages site en outputFormat html duration 39.217517ms
+INFO  build:  step render substep pages site en outputFormat rss duration 1.50178ms
+INFO  build:  step render pages 9 content 1 duration 40.899227ms
+INFO  build:  step postProcess duration 16.899µs
+INFO  build:  duration 47.041973ms
 
                    | EN  
 -------------------+-----
@@ -24,4 +23,4 @@ INFO  build:  duration 39.486648ms
   Aliases          |  1  
   Cleaned          |  0  
 
-Total in 118 ms
+Total in 91 ms
