@@ -1,16 +1,16 @@
 Start building sites … 
 hugo v0.127.0-74e0f3bd63c51f3c7a0f07a7c779eec9e922957e+extended linux/amd64 BuildDate=2024-06-05T10:27:59Z VendorInfo=gohugoio
 
-INFO  static: syncing static files to / duration 8.570381ms
-INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 75.691µs
-INFO  build:  step process duration 9.207864ms
-INFO  build:  step assemble duration 2.68215ms
+INFO  static: syncing static files to / duration 486.258µs
+INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 17.195µs
+INFO  build:  step process duration 1.377533ms
+INFO  build:  step assemble duration 211.251µs
 INFO  deprecated: .Site.Social was deprecated in Hugo v0.124.0 and will be removed in a future release. Use .Site.Params instead.
-INFO  build:  step render substep pages site en outputFormat html duration 47.196272ms
-INFO  build:  step render substep pages site en outputFormat rss duration 2.671298ms
-INFO  build:  step render pages 9 content 1 duration 50.129052ms
-INFO  build:  step postProcess duration 27.729µs
-INFO  build:  duration 62.380289ms
+INFO  build:  step render substep pages site en outputFormat html duration 10.403536ms
+INFO  build:  step render substep pages site en outputFormat rss duration 399.538µs
+INFO  build:  step render pages 9 content 1 duration 10.839165ms
+INFO  build:  step postProcess duration 7.795µs
+INFO  build:  duration 12.501904ms
 
                    | EN  
 -------------------+-----
@@ -22,4 +22,4 @@ INFO  build:  duration 62.380289ms
   Aliases          |  1  
   Cleaned          |  0  
 
-Total in 147 ms
+Total in 26 ms
