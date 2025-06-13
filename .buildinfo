@@ -1,16 +1,6 @@
 Start building sites … 
-hugo v0.139.0-dacef0df92a9a20072b4eaa42003e1a63ace8f41+extended linux/amd64 BuildDate=2024-11-18T16:17:45Z VendorInfo=gohugoio
+hugo v0.144.0-b289b17c433aa8ebf8c73ebbaf4bed973ac8e4d5+extended linux/amd64 BuildDate=2025-02-17T16:22:31Z VendorInfo=gohugoio
 
-INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 15.981µs
-INFO  build:  step process duration 45.618µs
-INFO  build:  step assemble duration 236.351µs
-INFO  static: syncing static files to / duration 440.388µs
-INFO  build:  step render substep pages site en outputFormat html duration 10.149232ms
-INFO  build:  step render substep pages site en outputFormat rss duration 500.044µs
-INFO  build:  step render pages 9 content 1 duration 10.694062ms
-INFO  build:  step render deferred count 0 duration 902ns
-INFO  build:  step postProcess duration 9.188µs
-INFO  build:  duration 11.107939ms
 
                    | EN  
 -------------------+-----
@@ -22,4 +12,4 @@ INFO  build:  duration 11.107939ms
   Aliases          |  1  
   Cleaned          |  0  
 
-Total in 27 ms
+Total in 30 ms
