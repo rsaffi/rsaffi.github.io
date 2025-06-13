@@ -1,17 +1,16 @@
 Start building sites … 
-hugo v0.128.2-de36c1a95d28595d8243fd8b891665b069ed0850+extended linux/amd64 BuildDate=2024-07-04T08:13:25Z VendorInfo=gohugoio
+hugo v0.139.0-dacef0df92a9a20072b4eaa42003e1a63ace8f41+extended linux/amd64 BuildDate=2024-11-18T16:17:45Z VendorInfo=gohugoio
 
-INFO  static: syncing static files to / duration 631.48µs
-INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 25.059µs
-INFO  build:  step process duration 3.260492ms
-INFO  build:  step assemble duration 262.181µs
-INFO  deprecated: .Site.Social was deprecated in Hugo v0.124.0 and will be removed in a future release. Use .Site.Params instead.
-INFO  build:  step render substep pages site en outputFormat html duration 11.852428ms
-INFO  build:  step render substep pages site en outputFormat rss duration 482.23µs
-INFO  build:  step render pages 9 content 1 duration 12.3723ms
-INFO  build:  step render deferred count 0 duration 972ns
-INFO  build:  step postProcess duration 8.988µs
-INFO  build:  duration 15.997563ms
+INFO  build:  step process substep collect files 0 files_total 0 pages_total 0 resources_total 0 duration 15.981µs
+INFO  build:  step process duration 45.618µs
+INFO  build:  step assemble duration 236.351µs
+INFO  static: syncing static files to / duration 440.388µs
+INFO  build:  step render substep pages site en outputFormat html duration 10.149232ms
+INFO  build:  step render substep pages site en outputFormat rss duration 500.044µs
+INFO  build:  step render pages 9 content 1 duration 10.694062ms
+INFO  build:  step render deferred count 0 duration 902ns
+INFO  build:  step postProcess duration 9.188µs
+INFO  build:  duration 11.107939ms
 
                    | EN  
 -------------------+-----
@@ -23,4 +22,4 @@ INFO  build:  duration 15.997563ms
   Aliases          |  1  
   Cleaned          |  0  
 
-Total in 29 ms
+Total in 27 ms
